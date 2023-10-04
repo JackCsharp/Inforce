@@ -1,0 +1,30 @@
+.simpleButton {
+  width: 10vw;
+  color: black;
+  background-color: white;
+  margin-left: 8px;
+  border-radius: 5px;
+}
+.simpleButton:hover {
+  width: 10vw;
+  color: white;
+  background-color: black;
+  cursor: pointer;
+  margin-left: 8px;
+  border-radius: 5px;
+}
+.simpleInput {
+  height: 3vh;
+  margin-left: 6px;
+  border-radius: 5px;
+}
+.alertButton {
+  width: 10vw;
+  color: black;
+  background-color: red;
+  margin-left: 8px;
+  border-radius: 5px;
+}
+.alertButton:hover {
+  cursor: pointer;
+}

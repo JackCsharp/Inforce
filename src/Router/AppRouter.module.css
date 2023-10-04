@@ -1,0 +1,21 @@
+.nav {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  height: 5vh;
+  margin-bottom: 10px;
+}
+.nav button {
+  background-color: #fee715;
+  color: #101820;
+  width: 10vw;
+  height: 4vh;
+  margin-left: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.nav button:hover {
+  background-color: #eea47f;
+  color: #00539c;
+  cursor: pointer;
+}
